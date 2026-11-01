@@ -1,0 +1,29 @@
+Fotky v této ukázce (všechny s volnou licencí pro komerční použití, bez nutnosti uvádět autora):
+
+img/foto-*.jpg|webp  fotka z profilu firmy na Googlu (https://lh3.googleusercontent.com/grass-cs/AABkmLf3nzfSqg5i-…)
+
+foto/01-strikani-800|1600.webp  (1600×1066)
+  stránka: https://www.pexels.com/photo/close-up-of-man-painting-car-details-14615263/
+  licence: Pexels License (https://www.pexels.com/license/)
+
+foto/02-lakovaci-box-800|1600.webp  (1600×1066)
+  stránka: https://www.pexels.com/photo/car-body-in-factory-17992463/
+  licence: Pexels License (https://www.pexels.com/license/)
+  úprava: rozmazán nápis na rámečku
+
+foto/03-karoserie-800|1600.webp  (1600×825)
+  stránka: https://www.pexels.com/photo/car-livery-model-18136808/
+  licence: Pexels License (https://www.pexels.com/license/)
+
+foto/04-zakryte-auto-800|1600.webp  (1600×1066)
+  stránka: https://unsplash.com/photos/vehicle-covered-by-white-in-garrage-tBaM1JuJCKA
+  licence: Unsplash License (https://unsplash.com/license)
+
+foto/05-mlha-800|1600.webp  (1600×1200)
+  stránka: https://unsplash.com/photos/hand-using-spray-gun-on-surface-rJkRQOJNzFY
+  licence: Unsplash License (https://unsplash.com/license)
+
+foto/06-lesteni-800|1600.webp  (1600×1066)
+  stránka: https://www.pexels.com/photo/a-person-buffing-a-car-6870296/
+  licence: Pexels License (https://www.pexels.com/license/)
+  úprava: rozmazán nápis na pneumatice
